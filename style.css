@@ -1,0 +1,48 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.main{
+    text-align: center;
+}
+/*  */
+#firstName, #lastName, #email, #password{
+    font-size: medium;
+    padding: 14px 16px;
+    margin: 10px;
+}
+#btn{
+   font-weight: bolder;
+   color: white;
+   background-color: green;
+   border: none;
+   font-size: medium;
+    padding: 14px 25px;
+    margin: 10px;
+}
+#btn1{
+    font-weight: bolder;
+    color: white;
+    background-color: green;
+    border: none;
+    font-size: medium;
+     padding: 15px 25px;
+     /* margin: 10px; */
+ }
+#u123{
+    color: cornflowerblue;
+}
+#inp{
+    font-size: medium;
+    padding: 14px 16px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.label {
+    font-size: 0.7em;
+    color: grey;
+  }
+  #parent {
+    list-style: none;
+    text-align: center;
+  }
